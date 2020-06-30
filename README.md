@@ -2,8 +2,8 @@
 
 ##
 
-
-
+## knlklkölq	f,mm öl	qcäl	jjq äjvj	k äl	f2 l 	w2v lj	2vq2 ll
+ 
 This repository contains an RL environment based on open-source game Gameplay
 Football. <br> It was created by the Google Brain team for research purposes.
 
