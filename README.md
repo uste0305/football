@@ -1,9 +1,6 @@
 # Google Research Football
 
 ##
-##
-##
-##
 
 
 
